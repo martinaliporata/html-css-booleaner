@@ -1,0 +1,51 @@
+#header-background{
+    background-color: #4ea0ff;
+}
+
+.immagine-logo{
+    background-repeat: repeat;
+}
+
+#immagine-pattern{
+    background-size: 40px;
+    background-repeat: repeat;
+}
+
+
+#title {
+    font-size: 60px;
+}
+
+#autor {
+    font-size: 15px;
+}
+
+#booleaner {
+    font-size: 15px;
+    color: rgb(7, 153, 244);
+}
+
+#data {
+    font-size: 11px;
+}
+
+.photo-description {
+    font-size: 13px;
+}
+
+.thead {
+    color: white;
+    background-color: #20a9e5;
+}
+
+.large {
+    width: 50%;
+}
+
+.lightblue {
+    background-color: #b1e5f2;
+}
+
+.footer {
+    color: #a1a1a1;
+}
